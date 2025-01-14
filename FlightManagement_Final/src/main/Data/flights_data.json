@@ -1,0 +1,58 @@
+[
+    {
+        "departureTime": "05:30 PM",
+        "arrivalTime": "02:35 AM",
+        "origin": "Doha",
+        "destination": "Tokyo",
+        "aircraftModel": "Boeing 777-900",
+        "flightNumber": "QR806"
+    },
+    {
+        "departureTime": "03:40 PM",
+        "arrivalTime": "07:25 PM",
+        "origin": "Kuala Lumpur",
+        "destination": "Hong Kong",
+        "aircraftModel": "Boeing 787-9 Dreamliner",
+        "flightNumber": "ML2445"
+    },
+    {
+        "departureTime": "08:00 AM",
+        "arrivalTime": "10:15 AM",
+        "origin": "Amsterdam",
+        "destination": "Madrid",
+        "aircraftModel": "Airbus A320",
+        "flightNumber": "NL445"
+    },
+    {
+        "departureTime": "02:10 PM",
+        "arrivalTime": "07:15 PM",
+        "origin": "Sao Paulo",
+        "destination": "Lisbon",
+        "aircraftModel": "Boeing 767",
+        "flightNumber": "BR6770"
+    },
+    {
+        "departureTime": "01:00 PM",
+        "arrivalTime": "06:00 PM",
+        "origin": "Los Angeles, CA",
+        "destination": "Miami, FL",
+        "aircraftModel": "Boeing 747",
+        "flightNumber": "US3962"
+    },
+    {
+        "departureTime": "06:00 AM",
+        "arrivalTime": "08:50 AM",
+        "origin": "Dubai",
+        "destination": "Maldives",
+        "aircraftModel": "Airbus A380",
+        "flightNumber": "EM7707"
+    },
+    {
+        "departureTime": "11:30 PM",
+        "arrivalTime": "07:40 PM",
+        "origin": "asd",
+        "destination": "asd",
+        "aircraftModel": "asdh",
+        "flightNumber": "QR5678"
+    }
+]
